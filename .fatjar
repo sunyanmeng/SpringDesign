@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Nov 11 16:31:21 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\sunym\\Desktop\\\u56FD\u6B63\\SpringDesign_fat.jar
+manifest.mergeall=true
+manifest.mainclass=cn.dl.MainMenu
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
